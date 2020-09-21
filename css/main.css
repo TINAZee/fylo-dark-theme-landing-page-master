@@ -11,6 +11,8 @@ body {
     }
     
 }
+/* Header section !!! */
+
 header{
     width: 1440px;
     height: 70px;
@@ -40,5 +42,9 @@ header{
 text-decoration: underline;
 color:grey
 }
+
+/* Hero section */
+
+
 
   
